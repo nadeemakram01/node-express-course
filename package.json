@@ -1,0 +1,41 @@
+{
+  "name": "node-express-course",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadeemakram01/node-express-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadeemakram01/node-express-course/issues"
+  },
+  "homepage": "https://github.com/nadeemakram01/node-express-course#readme",
+  "dependencies": {
+    "accepts": "^1.3.7",
+    "content-disposition": "^0.5.3",
+    "content-type": "^1.0.4",
+    "cookie": "^0.4.0",
+    "depd": "^1.1.2",
+    "express": "^4.17.1",
+    "inherits": "^2.0.3",
+    "methods": "^1.1.2",
+    "mime": "^1.6.0",
+    "parseurl": "^1.3.3",
+    "path-to-regexp": "^0.1.7",
+    "proxy-addr": "^2.0.6",
+    "raw-body": "^2.4.0",
+    "send": "^0.17.1",
+    "serve-static": "^1.14.1",
+    "utils-merge": "^1.0.1",
+    "vary": "^1.1.2"
+  },
+  "devDependencies": {}
+}
